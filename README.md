@@ -1,6 +1,6 @@
 [![Build Status](http://runbot.odoo.com/runbot/badge/default/1/master.svg)](http://runbot.odoo.com/runbot)
 
-Odoo
+Odoo2
 ----
 
 Odoo is a suite of web based open source business apps.  More info at http://www.odoo.com
